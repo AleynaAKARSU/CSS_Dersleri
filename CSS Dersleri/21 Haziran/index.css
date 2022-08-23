@@ -1,0 +1,59 @@
+p{
+    font-size: 50px;
+    color:blueviolet;
+    text-shadow: 2px 4px 5px;
+    text-align: center;
+    font-style: italic;
+
+
+}
+ul{
+    list-style-type: none;
+    background-color: yellow;
+    border-left: 20px solid;
+    border-color: black;
+    border-radius: 40px;
+    height:100px ;
+   /* width: 100px;*/
+}
+ul li{
+    font-size: 20px;
+    color: blueviolet;
+    border-bottom: 2px solid green;
+   /*text-decoration: underline;*/
+   /*text-decoration-color: green;*/
+}
+a{
+    color: blueviolet;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+table{
+    width: 500px;
+    height: 250px;
+    text-align: center;
+    background-color: cadetblue;
+
+    
+
+}
+
+table td{
+    background-color: blueviolet;
+    color:blue
+   
+    
+}
+table,th,td,h6{
+    border: 2px solid red;
+    border-radius: 20px;
+
+}
+th{
+    font-size: 50px;
+    background-color: aqua;
+    color:burlywood;
+    text-decoration: underline;
+    text-transform: uppercase;
+}

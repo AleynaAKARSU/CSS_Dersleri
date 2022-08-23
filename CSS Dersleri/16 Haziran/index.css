@@ -1,0 +1,36 @@
+h4{
+    color:cadetblue;
+    text-decoration: underline;
+    text-shadow: 2px 4px 5px yellowgreen;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    word-spacing: 40px;
+    font-style: italic;
+    font-size: 50px;
+}
+a{
+   color:cadetblue;
+   text-shadow: 3px 5px 10px;
+   font-size: 20px;
+   text-decoration-color:orange;
+
+
+}
+ol,ul{
+    color:red;
+}
+ul li{
+    font-size: 30px;
+   
+
+}
+ol li{
+    font-size: 50px;
+    color: orange;
+    list-style-type:upper-roman;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px ;
+   
+}

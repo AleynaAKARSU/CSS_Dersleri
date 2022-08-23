@@ -1,0 +1,10 @@
+color: Bir yazının rengini değiştirmemizi sağlıyor.
+font-size:Yazının boyutunu değiştirmeyi sağlıyor.
+font-family:Bir yazının yazı stilini belirlemeyi sağlıyor.
+text-align:Yazının konumunu değiştirmemizi sağlıyor. Solda mı sağda mı sayfa ortasında mı olacağını belirlememizi sağlıyor(left:sol;right:sağ;center:ortada)
+text-transform:Bir yazının harflerinin hepsi büyük, hepsi küçük ilk harfleri büyük geri kalanı küçük olacak bunu değiştirmemizi sağlıyor (uppercase:hepsi büyük; lowercase:hepsi küçük; capitalize:her bir kelimenin ilk harfleri büyük olacak şekilde yazılmasını sağlıyor)
+text-decoration:Yazının altı,yazının üstü ve yazılanların üstünün çizilme durumunu belirlemek için (underline:altı çizili; overline:yazının üstünde çizgi ; line-through:yazının üstünü(html del etiketi gibi), none:Yazıda herhangi bir çizgi çizilmemesi istendiğinde mesela a etiketinde normal de altı çizili geliyordu text:decoration özelliğine none dediğimizde altı çizili olma durumunu kaldırıyor)
+line-height:satır yüksekliği
+letter-spacing:Bir metindeki harfler arasındaki boşluk
+word-spacing:bir metindeki her bir kelime arasındaki boşluk
+text-shadow :bir metne gölge vermemizi sağlıyor. ilk değer yatay da ikinci değer dikey de üçüncü değer ne kadar bulanık olacağını belirlediğimiz değer son olarak ta dördüncü değer olarakta gölge rengi verilebilir
